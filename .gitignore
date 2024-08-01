@@ -1,0 +1,4 @@
+wandb/
+output/
+outputs/
+__pycache__/
